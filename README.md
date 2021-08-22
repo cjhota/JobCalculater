@@ -1,4 +1,4 @@
-<!-- <h1 align="center">
+<h1 align="center">
   <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
 </h1>
 
@@ -9,11 +9,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/cjhota/foodfy/blob/main/LICENSE) 
 
 <br>
 
@@ -43,8 +39,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/cjhota/foodfy/blob/main/LICENSE) para mais detalhes.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc) -->
+Feito por Rocketseat | José Ribeiro
